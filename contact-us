@@ -8,18 +8,18 @@
     <meta name="description" content="Feel free to contact us"/>
 
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://speakercleaners.org/contact/"/>
+    <meta property="og:url" content="https://speakercleaners.org/contact-us"/>
     <meta property="og:title" content="Contact Us - Speakercleaners.org"/>
     <meta property="og:description" content="Feel free to contact us"/>
     <meta property="og:image" content="#"/>
 
     <meta property="twitter:card" content="summary_large_image"/>
-    <meta property="twitter:url" content="https://speakercleaners.org/contact/"/>
+    <meta property="twitter:url" content="https://speakercleaners.org/contact-us"/>
     <meta property="twitter:title" content="Contact Us - Speakercleaners.org"/>
     <meta property="twitter:description" content="Feel free to contact us"/>
     <meta property="twitter:image" content="#"/>
 
-    <link rel="canonical" href="https://speakercleaners.org/contact/">
+    <link rel="canonical" href="https://speakercleaners.org/contact-us">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="1 days">
     <meta name="author" content="speakercleaners.org">
@@ -39,7 +39,7 @@
                 
             <div class="right">
                 <ul>
-                    <li><a href="index.html">Speaker Cleaner</a></li>
+                    <li><a href="https://speakercleaners.org">Speaker Cleaner</a></li>
                     <li>Blog</li>
                     <li><a href="/about-us">About Us</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>

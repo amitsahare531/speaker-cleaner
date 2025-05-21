@@ -5,45 +5,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Speaker Cleaner - Remove water from your phone's speaker</title>
-    <meta name="title" content="Speaker Cleaner - Remove water from your phone's speaker"/>
-    <meta name="description" content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound."/>
+    <meta name="title" content="Speaker Cleaner - Remove water from your phone's speaker" />
+    <meta name="description"
+        content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound." />
 
-    <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://speakercleaners.org/"/>
-    <meta property="og:title" content="Speaker Cleaner - Remove water from your phone's speaker"/>
-    <meta property="og:description" content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound."/>
-    <meta property="og:image" content="#"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://speakercleaners.org/about-us" />
+    <meta property="og:title" content="Speaker Cleaner - Remove water from your phone's speaker" />
+    <meta property="og:description"
+        content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound." />
+    <meta property="og:image" content="#" />
 
-    <meta property="twitter:card" content="summary_large_image"/>
-    <meta property="twitter:url" content="https://speakercleaners.org/"/>
-    <meta property="twitter:title" content="Speaker Cleaner - Remove water from your phone's speaker"/>
-    <meta property="twitter:description" content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound."/>
-    <meta property="twitter:image" content="#"/>
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://speakercleaners.org/about-us" />
+    <meta property="twitter:title" content="Speaker Cleaner - Remove water from your phone's speaker" />
+    <meta property="twitter:description"
+        content="Free Speaker Cleaner tool to remove water from your phone’s speaker. Quick, easy, and safe way to fix muffled or distorted sound." />
+    <meta property="twitter:image" content="#" />
+
+    <link rel="canonical" href="https://speakercleaners.org/about-us">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="speakercleaners.org">
+
+
 
     <link rel="stylesheet" href="style.css">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
 <body>
 
     <header>
         <nav>
-            <div class="logo"><a href="/"><img src="asset/Speaker cleaner logo.png" alt="Speaker cleaner"></a> </div>   
-            
+            <div class="logo"><a href="/"><img src="asset/Speaker cleaner logo.png" alt="Speaker cleaner"></a> </div>
+
             <input type="checkbox" id="click">
             <label for="click" class="menu-btn">
                 <i class="fas fa-bars"></i>
-                </label>
-                
+            </label>
+
             <div class="right">
                 <ul>
-                    <li><a href="index.html">Speaker Cleaner</a></li>
+                    <li><a href="https://speakercleaners.org">Speaker Cleaner</a></li>
                     <li>Blog</li>
                     <li><a href="/about-us">About Us</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>
                 </ul>
-                
+
             </div>
         </nav>
     </header>
@@ -52,13 +62,22 @@
     <main>
         <div class="container-about">
             <h1>About Us</h1>
-            <p>Welcome to Speaker cleaner, your trusted destination for high-quality speaker cleaners! We understand the importance of clear, crisp sound, whether you’re a music enthusiast, gamer, or professional. That's why we're dedicated to providing innovative cleaning solutions that keep your speakers performing at their best.</p>
+            <p>Welcome to Speaker cleaner, your trusted destination for high-quality speaker cleaners! We understand the
+                importance of clear, crisp sound, whether you’re a music enthusiast, gamer, or professional. That's why
+                we're dedicated to providing innovative cleaning solutions that keep your speakers performing at their
+                best.</p>
 
-            <p>At Speaker cleaner, we believe that great sound starts with clean speakers. Dust, dirt, and grime can affect the quality of your audio, and that’s where our specialized speaker cleaners come in. Designed for easy use and maximum efficiency, our products help restore and maintain the performance of your favorite sound systems.</p>
+            <p>At Speaker cleaner, we believe that great sound starts with clean speakers. Dust, dirt, and grime can
+                affect the quality of your audio, and that’s where our specialized speaker cleaners come in. Designed
+                for easy use and maximum efficiency, our products help restore and maintain the performance of your
+                favorite sound systems.</p>
 
-            <p>Whether you have a high-end home theater setup or a portable Bluetooth speaker, our products ensure that every note, beat, and word comes through with clarity. We take pride in delivering products that are both effective and safe for your devices.</p>
+            <p>Whether you have a high-end home theater setup or a portable Bluetooth speaker, our products ensure that
+                every note, beat, and word comes through with clarity. We take pride in delivering products that are
+                both effective and safe for your devices.</p>
 
-            <p>Thank you for choosing Speaker cleaner for your speaker cleaning needs. We’re here to help you enjoy your music, movies, and games to the fullest!</p>
+            <p>Thank you for choosing Speaker cleaner for your speaker cleaning needs. We’re here to help you enjoy your
+                music, movies, and games to the fullest!</p>
         </div>
     </main>
 
@@ -76,7 +95,7 @@
             <div class="copywrite">Copyright &copy; 2025 - speakercleaners.org</div>
 
         </div>
-        
+
     </footer>
 
     <script src="script.js"></script>
