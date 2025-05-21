@@ -1,8 +1,5 @@
 {
-  "routes": [
-    {
-      "route": "/*",
-      "rewrite": "/$1.html"
-    }
-  ]
+  "routes": {
+    "/**": "/:splat.html"
+  }
 }
