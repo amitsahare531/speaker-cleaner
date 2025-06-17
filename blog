@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog posts - Speaker Cleaner</title>
+    <meta name="title" content="Blog posts - Speaker Cleaner"/>
+    <meta name="description" content="Discover insightful articles and expert tips on various topics. Explore our blog for helpful guides, news, and updates to stay informed and inspired."/>
+
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://speakercleaners.org/blog"/>
+    <meta property="og:title" content="Blog posts - Speaker Cleaner"/>
+    <meta property="og:description" content="Discover insightful articles and expert tips on various topics. Explore our blog for helpful guides, news, and updates to stay informed and inspired."/>
+    <meta property="og:image" content="#"/>
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://speakercleaners.org/blog"/>
+    <meta property="twitter:title" content="Blog posts - Speaker Cleaner"/>
+    <meta property="twitter:description" content="Discover insightful articles and expert tips on various topics. Explore our blog for helpful guides, news, and updates to stay informed and inspired."/>
+    <meta property="twitter:image" content="#"/>
+
+    <link rel="canonical" href="https://speakercleaners.org/blog">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="speakercleaners.org">
+
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo"><a href="/"><img src="asset/Speaker cleaner logo.png" alt="Speaker cleaner"></a> </div>
+            
+            <input type="checkbox" id="click">
+            <label for="click" class="menu-btn">
+                <i class="fas fa-bars"></i>
+                </label>
+                
+            <div class="right">
+                <ul>
+                    <li><a href="https://speakercleaners.org">Speaker Cleaner</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/about-us">About Us</a></li>
+                    <li><a href="/contact-us">Contact Us</a></li>
+                </ul>
+                
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="blog-heading">
+            <h1>Blogs</h1>
+        </div>
+
+        <div class="blog-section">
+
+<!-- 1st box -->
+            <div class="blog-box">
+
+                <div class="featured-img">
+
+                <a href="/how-to-clean-phone-speaker"><img src="asset/Clean phone speaker.png" alt="clean phone speaker"></a>
+
+                </div>
+
+                <div class="blog-text">
+                    <!-- <span>08-06-2025</span> -->
+                    <a href="/how-to-clean-phone-speaker" class="blog-title">How To Clean Phone Speaker</a>
+                    <p>Clear debris and dust from your phone speaker easily! Use a brush, cotton swab, or compressed air to improve audio clarity and enjoy better sound quality.</p>
+                    <a href="/how-to-clean-phone-speaker">Read More</a>
+                </div>
+
+            </div>
+
+<!-- 2 box -->
+
+
+             <div class="blog-box">
+
+                <div class="featured-img">
+                    <img src="asset/phone speaker test.png" alt="phone speaker test">
+                </div>
+
+                <div class="blog-text">
+                    <!-- <span>08-06-2025</span> -->
+                    <a href="#" class="blog-title">How To Test Phone Speaker : Step By Step Guide 2025</a>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Official Lorem, ipsum dolor.</p>
+                    <a href="#">Read More</a>
+                </div>
+
+            </div>
+
+<!-- 3 box -->
+
+
+             <div class="blog-box">
+
+                <div class="featured-img">
+                    <img  src="asset/Clean phone speaker.png"  alt="clean phone speaker">
+                </div>
+
+                <div class="blog-text">
+                    <!-- <span>08-06-2025</span> -->
+                    <a href="#" class="blog-title">How to Clean My Phone Speaker</a>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Official Lorem, ipsum dolor.</p>
+                    <a href="#">Read More</a>
+                </div>
+
+            </div>
+
+
+
+        </div>
+    </main>
+
+
+    <footer>
+        <div class="footersection">
+
+            <ol>
+                <li><a href="/terms-and-conditions">Terms And Conditions</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/contact-us">Contact Us</a></li>
+                <li><a href="/about-us">About Us</a></li>
+            </ol>
+
+            <div class="copywrite">Copyright &copy; 2025 - speakercleaners.org</div>
+
+        </div>
+        
+    </footer>
+
+</body>
+</html>
