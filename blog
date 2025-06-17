@@ -76,43 +76,6 @@
 
             </div>
 
-<!-- 2 box -->
-
-
-             <div class="blog-box">
-
-                <div class="featured-img">
-                    <img src="asset/phone speaker test.png" alt="phone speaker test">
-                </div>
-
-                <div class="blog-text">
-                    <!-- <span>08-06-2025</span> -->
-                    <a href="#" class="blog-title">How To Test Phone Speaker : Step By Step Guide 2025</a>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Official Lorem, ipsum dolor.</p>
-                    <a href="#">Read More</a>
-                </div>
-
-            </div>
-
-<!-- 3 box -->
-
-
-             <div class="blog-box">
-
-                <div class="featured-img">
-                    <img  src="asset/Clean phone speaker.png"  alt="clean phone speaker">
-                </div>
-
-                <div class="blog-text">
-                    <!-- <span>08-06-2025</span> -->
-                    <a href="#" class="blog-title">How to Clean My Phone Speaker</a>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Official Lorem, ipsum dolor.</p>
-                    <a href="#">Read More</a>
-                </div>
-
-            </div>
-
-
 
         </div>
     </main>
